@@ -1,16 +1,16 @@
-# ANISH SEBASTIAN
+# Anish Sebastian
 
 ## Summary
 
-Senior Software Tester with over 12 years of experience in manual and automated testing on federal client projects. Strong Test automation background with Selenium/Python and HP UFT . Led several software releases in both SDLC and agile environments and is responsible for coaching and mentoring junior staff. Background in IT Tech Support and Web Development have proven to be valuable skill in my testing projects when it comes to troubleshooting issues and knowledge base development.
+AI QA Architect & Quality Engineering Lead with 17+ years of expertise driving software quality and test automation strategy. Specialist in architecting next-generation testing processes by combining traditional frameworks (Python, Pytest, Playwright/Selenium, SQL, SoapUI) with modern AI agent harnesses and MCP integrations. Recognized for elevating software quality, accelerating end-to-end test execution, and building high-performing teams through structured mentoring, best practices, and collaborative Agile leadership.
 
 [LinkedIn Profile](https://www.linkedin.com/in/anishst/)
 
 ## Qualifications
 
-- 12 years of experience with system testing methodologies and system or software development life cycle (SDLC)
-- 12 years of federal government consulting experience
-- 9 years of Experience writing [**Selenium**](https://www.selenium.dev/) Automation Test Scripts using [**Python**](https://www.python.org/) 
+- 17 years of experience with system testing methodologies and system or software development life cycle (SDLC)
+- 17 years of federal government consulting experience
+- 12 years of Experience writing [**Selenium**](https://www.selenium.dev/) Automation Test Scripts using [**Python**](https://www.python.org/) 
 - Demonstrable experience in writing clean automation code quickly
 - Experience with analyzing and documenting software test results
 - Creative, independent, self-motivated and excited to learn new technologies
