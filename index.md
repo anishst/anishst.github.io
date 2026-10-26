@@ -5,6 +5,15 @@
 
 ---
 
+## **Major Sections**
+
+- [Executive Summary](#executive-summary)
+- [Core Competencies & Technical Capabilities](#core-competencies--technical-capabilities)
+- [Professional Experience & Key Roles](#professional-experience--key-roles)
+- [Key Accomplishments & Special Projects](#key-accomplishments--special-projects)
+
+---
+
 ## **Executive Summary**
 
 Results-driven **AI QA Architect and Quality Engineering Lead** with over 17 years of experience steering end-to-end software quality strategies, complex system test execution, and enterprise automation frameworks within federal government consulting environments. Proven specialist in modernizing quality assurance by coupling core testing frameworks (**Python, Pytest, Playwright, Selenium, SQL, SoapUI/Postman**) with emerging **AI agent harnesses, model context protocol (MCP) integrations, and CI/CD pipelines**. 
