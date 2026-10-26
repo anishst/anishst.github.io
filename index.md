@@ -1,7 +1,7 @@
 # **Anish Sebastian**
 **AI QA Architect & Quality Engineering Lead**  
 *17+ Years of Software Quality Engineering, Automation Architecture & Agile Leadership*  
-**Clearance:** Public Trust Security Clearance Eligible | **Work Authorization:** U.S. Citizen / Authorized to Work
+**Clearance:** Public Trust Security Clearance Eligible | **Work Authorization:** U.S. Citizen / Authorized to Work / [Linkedin Profile](https://www.linkedin.com/in/anishst/)
 
 ---
 
@@ -57,9 +57,10 @@ Demonstrated track record of leading high-performing testing teams, managing mul
 
 ## **Key Accomplishments & Special Projects**
 
-* **ALM & Requirements Migrations:**
-  * Successfully led the legacy migration from **HP ALM 11 to HP ALM 12**.
-  * Directed the end-to-end requirement asset migration from **JAMA Software to JIRA**, customizing JIRA issue types, filters, and dashboards for release tracking.
+* **Migrations:**
+    * Architected and led the end-to-end QA transition from **Jira to Azure DevOps (ADO)** during a major cloud migration. Engineered custom Python automation using the ADO REST API to seamlessly transfer 50,000+ historical artifacts—eliminating the need for costly COTS migration software and saving significant time and licensing budget. Built executive dashboards, established custom queries, and accelerated team adoption through live demonstrations, hands-on training, and technical documentation.
+    * Successfully led the ALM legacy migration from **HP ALM 11 to HP ALM 12**.
+    * Directed the end-to-end requirement asset migration from **JAMA Software to JIRA**, customizing JIRA issue types, filters, and dashboards for release tracking.
 * **Containerized Test Execution:** Designed Docker Compose environments to spin up dynamic Selenium Standalone/Grid clusters, running containerized API test suites inside Jenkins CI/CD pipelines.
 * **Full-Stack Internal Tooling:** Engineered internal Knowledge Base and QA utility web applications using Python (Flask, SQLAlchemy, WTForms, Docker), facilitating rapid access to project documentation and test assets.
 * **Cross-Workstream Leadership:** Led daily multi-disciplinary defect and test status calls involving testing, development, business analyst, and operations teams to maintain alignment across fast-paced release cycles.
