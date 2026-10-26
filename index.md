@@ -1,6 +1,6 @@
 # **Anish Sebastian**
 **AI QA Architect & Quality Engineering Lead**  
-*17+ Years of Software Quality Engineering, Automation Architecture & Agile Leadership*  
+*18+ Years of Software Quality Engineering, Automation Architecture & Agile Leadership*  
 **Clearance:** Public Trust Security Clearance Eligible | **Work Authorization:** U.S. Citizen / Authorized to Work / [Linkedin Profile](https://www.linkedin.com/in/anishst/)
 
 ---
@@ -16,7 +16,7 @@
 
 ## **Executive Summary**
 
-Results-driven **AI QA Architect and Quality Engineering Lead** with over 17 years of experience steering end-to-end software quality strategies, complex system test execution, and enterprise automation frameworks within federal government consulting environments. Proven specialist in modernizing quality assurance by coupling core testing frameworks (**Python, Pytest, Playwright, Selenium, SQL, SoapUI/Postman**) with emerging **AI agent harnesses, model context protocol (MCP) integrations, and CI/CD pipelines**. 
+Results-driven **AI QA Architect and Quality Engineering Lead** with over 18 years of experience steering end-to-end software quality strategies, complex system test execution, and enterprise automation frameworks within federal government consulting environments. Proven specialist in modernizing quality assurance by coupling core testing frameworks (**Python, Pytest, Playwright, Selenium, SQL, SoapUI/Postman**) with emerging **AI agent harnesses, model context protocol (MCP) integrations, and CI/CD pipelines**. 
 
 Demonstrated track record of leading high-performing testing teams, managing multi-discipline test releases across matrixed stakeholders, and building scalable custom utilities that accelerate delivery cycles and reduce defect rates in production.
 
@@ -53,7 +53,7 @@ Demonstrated track record of leading high-performing testing teams, managing mul
 
 ### **Quality Engineering Lead & Test Architect**
 * **Test Program Management:** Direct end-to-end functional, integration, regression, performance, and accessibility testing across multi-system federal applications.
-* **Client Engagement & Delivery:** Interface directly with client leadership (e.g., Fiscal Service) to deliver formal Test Plans, Requirements Traceability Matrices (RTM), and System Test Results Reports for official sign-off.
+* **Client Engagement & Delivery:** Interface directly with client leadership to deliver formal Test Plans, Requirements Traceability Matrices (RTM), and System Test Results Reports for official sign-off.
 * **Interfacing Partner Collaboration:** Coordinate End-to-End business flows with external interface partners, resolving complex dependencies and cross-system data exchange requirements.
 * **Defect Prevention & Quality Control:** Collaborate directly with software developers, system architects, and DevOps engineers to isolate root causes, streamline fix verification, and prevent defect leaks to production.
 
