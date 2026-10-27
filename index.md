@@ -38,9 +38,9 @@ Demonstrated track record of leading high-performing testing teams, managing mul
 * **UI & Cross-Browser Validation:** Multi-platform functional testing across Chrome, Edge, Firefox, and mobile emulation; automated hyperlink verification and dynamic element locating via custom XPath and HTML attributes.
 
 **Related GitHub Projects**
-- **AI_Projects**: A dedicated testing ground for evaluating state-of-the-art AI models and integration APIs. https://github.com/anishst/AI_Projects
-- A minimal Playwright test suite: https://github.com/anishst/playwright_tests
-- Spring boot framework with Selenium automation testing tool to perform UI automation and test Microservices based application using different toolings and techniques: https://github.com/anishst/SeleniumSpringBoot
+- **AI_Projects**: A dedicated testing ground for evaluating state-of-the-art AI models and integration APIs. [https://github.com/anishst/AI_Projects](https://github.com/anishst/AI_Projects)
+- A minimal Playwright test suite: [https://github.com/anishst/playwright_tests](https://github.com/anishst/playwright_tests)
+- Spring boot framework with Selenium automation testing tool to perform UI automation and test Microservices based application using different toolings and techniques: [https://github.com/anishst/SeleniumSpringBoot](https://github.com/anishst/SeleniumSpringBoot)
 
 ### **DevOps, CI/CD & Cloud**
 * **Containers & Orchestration:** Docker, Docker Compose (Selenium Grid/Standalone orchestration), SonarQube static code analysis integration, and containerized API test execution.
@@ -49,8 +49,8 @@ Demonstrated track record of leading high-performing testing teams, managing mul
 * **Scripting & OS Tools:** Windows PowerShell, Linux Shell (Bash), VBScript legacy support, Python Tkinter UI utility development for manual QA upskilling.
 
 **Related GitHub Projects**
-- A Java Spring Boot application that can run in Jenkins leveraging Docker containers: https://github.com/anishst/JavaSpringBoot
-- GUI applications for manual QA upskilling: https://github.com/anishst/gui_apps
+- A Java Spring Boot application that can run in Jenkins leveraging Docker containers: [https://github.com/anishst/JavaSpringBoot](https://github.com/anishst/JavaSpringBoot)
+- GUI applications for manual QA upskilling: [https://github.com/anishst/gui_apps](https://github.com/anishst/gui_apps)
 
 ### **Data Verification & Enterprise Systems**
 * **Database & Backend Testing:** SQL query design, data integrity validation, schema validation, and backend testing across Oracle, SQL Server, SQLite, and MongoDB.
@@ -64,8 +64,8 @@ Demonstrated track record of leading high-performing testing teams, managing mul
 * **Version Control & Deployment:** Git/GitHub workflows (branching, pull requests, Pages deployment), coaching teams on repository standards and collaborative web-based development practices.
 
 **Related GitHub Projects**
-- FastAPI-based web app with CRUD operations using different databases: https://github.com/anishst/FastAPI-CRUD-app
-- Django-based web app: https://github.com/anishst/django_app
+- FastAPI-based web app with CRUD operations using different databases: [https://github.com/anishst/FastAPI-CRUD-app](https://github.com/anishst/FastAPI-CRUD-app)
+- Django-based web app: [https://github.com/anishst/django_app](https://github.com/anishst/django_app)
 
 ---
 
