@@ -67,6 +67,15 @@ Demonstrated track record of leading high-performing testing teams, managing mul
 - FastAPI-based web app with CRUD operations using different databases: [https://github.com/anishst/FastAPI-CRUD-app](https://github.com/anishst/FastAPI-CRUD-app)
 - Django-based web app: [https://github.com/anishst/django_app](https://github.com/anishst/django_app)
 
+### **Data Analysis & ETL**
+* **Interactive Notebook Development:** Data extraction, transformation, and load (ETL) workflows built in Jupyter and Marimo notebooks for exploratory analysis, reproducible pipelines, and reactive data visualization.
+* **Data Wrangling & Analysis:** Python-based data cleansing, transformation, and validation using `pandas`, `polars`, and `numpy`; schema and data integrity checks against source systems (Oracle, SQL Server, SQLite, MongoDB).
+* **Visualization & Reporting:** Charting and dashboarding of test metrics, defect trends, and migration artifacts to support executive-level reporting and data-driven decision-making.
+
+
+**Related GitHub Projects**
+- ETL and data analysis notebooks using Jupyter/Marimo: [https://github.com/anishst/data_etl_notebooks](https://github.com/anishst/data_etl_notebooks)
+
 ---
 
 ## **Professional Experience & Key Roles**
