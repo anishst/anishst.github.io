@@ -21,6 +21,8 @@ Results-driven **AI QA Architect and Quality Engineering Lead** with over 18 yea
 
 Demonstrated track record of leading high-performing testing teams, managing multi-discipline test releases across matrixed stakeholders, and building scalable custom utilities that accelerate delivery cycles and reduce defect rates in production.
 
+Complements this testing leadership with hands-on **web development** experience building full-stack applications (Flask, FastAPI, Django) and static sites, practical **data extraction and ETL** skills using Python, SQL, and notebook-based tooling (Jupyter/Marimo) to transform raw source data into actionable insights, and an early-career foundation in **technical/end-user support**, troubleshooting hardware, software, and network issues that sharpened root-cause analysis and client communication skills carried forward into quality engineering.
+
 ---
 
 ## **Core Competencies & Technical Capabilities**
